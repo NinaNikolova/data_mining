@@ -1,1 +1,1 @@
-# data_mining
+# FMI'course of data_mining
